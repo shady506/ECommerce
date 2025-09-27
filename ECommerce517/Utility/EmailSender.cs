@@ -12,7 +12,7 @@ namespace ECommerce517.Utility
             {
                 EnableSsl = true,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("mohamedashrafmahmoudgad@gmail.com", "nzhe rbeo zmlh jzlg")
+                Credentials = new NetworkCredential("shady.shda3333@gmail.com", "vwcs bkmx snyb qjdr")
             };
 
             return client.SendMailAsync(
