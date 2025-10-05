@@ -72,7 +72,7 @@ public class HomeController : Controller
         var categories = _context.Categories.ToList();
         ViewBag.Categories = categories;
         //ViewData["Categories"] = categories;
-        
+
         return View(products.ToList());
     }
 
